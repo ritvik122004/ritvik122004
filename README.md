@@ -106,14 +106,7 @@ An AI automation project focused on content generation and workflow orchestratio
 - **Focus:** Trend discovery, content generation, and workflow automation.
 - 🔗 [GitHub Repository](https://github.com/ritvik122004/jobingen-marketing-agent)
 
-### 4. Additional Projects
 
-Add your other completed projects here with a short description, technologies, and repository links.
-
-- **Project Name:** [TODO — add project name]
-- **Description:** [TODO — describe the problem and solution]
-- **Tech Stack:** [TODO — add technologies]
-- **Repository:** [TODO — add repository URL]
 
 ---
 
@@ -134,9 +127,7 @@ Add your other completed projects here with a short description, technologies, a
 ## 🏆 Certifications
 
 - **IBM AI Certification** — [Add certificate URL]
-- **Oracle AI Foundations Associate** — [Add certificate URL]
-- **Microsoft AI Skill Fest** — [Add certificate URL]
-- **Oracle Road to Certification** — [Add certificate URL]
+
 
 *Verify the exact certificate titles and add public verification links where available.*
 
@@ -169,11 +160,11 @@ Add your other completed projects here with a short description, technologies, a
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/REPLACE_WITH_LINKEDIN_USERNAME/">
+<a href="https://leetcode.com/u/ritvik122004/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:ritviksingh439@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
